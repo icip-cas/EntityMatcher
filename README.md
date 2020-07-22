@@ -50,4 +50,5 @@ Cheng Fu, Xianpei Han, Jiaming He and Le Sun, Hierarchical Matching Network for 
 ```
 
  ## The Team
-EntityMatcher is developed by [Chinese Information Processing Laboratory (CIP)](http://www.icip.org.cn/zh/homepage/), Institute of Software , Chinese Academy of Science. 
+EntityMatcher is developed by [Chinese Information Processing Laboratory (CIP)](http://www.icip.org.cn/zh/homepage/), Institute of Software , Chinese Academy of Science.   
+If you have any problem in running the code, please email to fucheng@iscas.ac.cn.
